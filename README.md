@@ -1,4 +1,4 @@
 # saimeter
 
-⚠️⚠️ It requires chartjs library ⚠️⚠️
+⚠️⚠️ It requires canvasjs library ⚠️⚠️
 
